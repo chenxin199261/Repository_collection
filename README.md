@@ -2,6 +2,10 @@
 
 ### 1. Quantum Chemistry Package
 
+[pyscf](https://github.com/pyscf/pyscf) : Python module for quantum chemistry
+
+[psi4](https://github.com/psi4/psi4) : Open-Source Quantum Chemistry – an electronic structure package in C++ driven by Python
+
 [qmcpack](https://github.com/QMCPACK/qmcpack ) : A many-body ab initio Quantum Monte Carlo code for computing the electronic structure of atoms, molecules, and solids.
 
 [sisl](https://github.com/zerothi/sisl): Scientific Python toolbox for large scale tight-binding and electronic structure calculations (DFT and NEGF analysis)
