@@ -24,6 +24,8 @@
 
 [SciCompforChemists](https://github.com/weisscharlesj/SciCompforChemists): Scientific Computing for Chemists text for teaching basic computing skills to chemistry students using Python, Jupyter notebooks, and the SciPy stack.
 
+[ProgrammingProjects](https://github.com/CrawfordGroup/ProgrammingProjects): C++ Programming Tutorial in Chemistry
+
 ### 5. Toolkit
 
 [MacroDensity](https://github.com/WMD-group/MacroDensity):A set of python scripts to read in a electrostatic potentials and electron densities from electronic structure calculations and plot in a number of ways.
