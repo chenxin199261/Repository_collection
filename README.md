@@ -1,4 +1,4 @@
-## Scientific computing repositories collections and categories 
+## Scientific computing repositories' collections and categories 
 
 ### 1. Quantum Chemistry Package
 
@@ -27,6 +27,8 @@
 [ProgrammingProjects](https://github.com/CrawfordGroup/ProgrammingProjects): C++ Programming Tutorial in Chemistry
 
 ### 5. Toolkit
+
+[autodE](https://github.com/duartegroup/autodE): automated reaction profile generation 
 
 [MacroDensity](https://github.com/WMD-group/MacroDensity):A set of python scripts to read in a electrostatic potentials and electron densities from electronic structure calculations and plot in a number of ways.
 
