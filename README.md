@@ -24,6 +24,8 @@
 
 [hpctoolkit](https://github.com/HPCToolkit/hpctoolkit ): HPCToolkit performance tools: measurement and analysis components
 
+[tiledarray](https://github.com/ValeevGroup/tiledarray): A massively-parallel, block-sparse tensor framework written in C++
+
 ### 5. Tutorials 
 
 [SciCompforChemists](https://github.com/weisscharlesj/SciCompforChemists): Scientific Computing for Chemists text for teaching basic computing skills to chemistry students using Python, Jupyter notebooks, and the SciPy stack.
