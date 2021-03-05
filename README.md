@@ -34,7 +34,7 @@
 
 ### 6. Toolkit
 
-[autodE](https://github.com/duartegroup/autodE): automated reaction profile generation 
+[autodE](https://github.com/duartegroup/autodE): automated reaction profile generation.
 
 [MacroDensity](https://github.com/WMD-group/MacroDensity):A set of python scripts to read in a electrostatic potentials and electron densities from electronic structure calculations and plot in a number of ways.
 
