@@ -12,6 +12,8 @@
 
 [XCFun](https://github.com/dftlibs/xcfun): A library of exchange-correlation functionals with arbitrary-order derivatives
 
+[DFTB+](https://github.com/dftbplus/dftbplus): DFTB+ general package for performing fast atomistic simulations
+
 ### 2. Atomistic simulation
 
 [openforcefield](https://github.com/openforcefield/openforcefield): The Open Forcefield Toolkit provides implementations of the SMIRNOFF format, parameterization engine, and other tools. 
